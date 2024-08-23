@@ -47,10 +47,10 @@ pip install py-evm==0.3.0a1
 │
 ├── /fuzzer/
 │   ├── main.py
-│	├── detectors/
+│   ├── detectors/
 │   ├── engine/
-│	├── evm/
-│	├── utils/
+│   ├── evm/
+│   ├── utils/
 │   └── image/
 │
 ├── /datasets/
