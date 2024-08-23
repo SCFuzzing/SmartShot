@@ -2,7 +2,7 @@
 
 **SmartShot is a mutable snapshot-based  fuzzer for smart contracts.**
 
-<img src="fuzzer/image/image.png" alt="image" style=zoom:30%;/>
+![image](fuzzer/image/image.jpg)
 
 ### Requirements
 
